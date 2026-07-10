@@ -41,10 +41,6 @@ RAG-based study assistant that retrieves and synthesizes answers from course mat
 MERN-stack loan management system covering the full loan lifecycle — application, approval workflow, and repayment tracking.
 `MongoDB` `Express` `React` `Node.js`
 
-**[Personal Portfolio](https://github.com/nithishsivasamy07-sudo/YOUR-REPO)**
-Single-file, dark-themed portfolio site with an animated neural-network canvas background and a full project/experience timeline.
-`HTML` `CSS` `JavaScript`
-
 ---
 
 ### 🧰 Tech Stack
