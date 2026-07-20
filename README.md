@@ -25,10 +25,6 @@
 Offline log analysis tool using local LLMs (Ollama) to detect anomalies and auto-generate incident reports. No cloud dependency — runs fully on-device.
 `Python` `Streamlit` `Ollama` `SQLite`
 
-**[QueryCraft](https://github.com/nithishsivasamy07-sudo/YOUR-REPO)**
-Full-stack natural-language-to-SQL app with auth, query history, CSV export, and enforced SQL safety guardrails against destructive queries.
-`React` `Vite` `Tailwind` `FastAPI` `Claude API`
-
 **[LeafSense — Plant Disease Detection](https://github.com/nithishsivasamy07-sudo/YOUR-REPO)**
 Benchmarked CNN, ResNet50, InceptionV3, EfficientNet, and Vision Transformer on the PlantVillage dataset — ViT achieved ~98% accuracy.
 `TensorFlow` `Keras` `Computer Vision`
