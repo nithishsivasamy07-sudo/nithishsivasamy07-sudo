@@ -48,18 +48,6 @@
 
 ---
 
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,html,css,js,mysql,mongodb,git,github,vscode,eclipse,tailwind,firebase" />
-</p>
-
----
-
----
-
 # 📌 Featured Projects
 
 ✨ AI-Powered Supplier Discovery using Graph RAG
@@ -86,25 +74,7 @@
 
 </p>
 
----
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishsivasamy07-sudo&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithishsivasamy07-sudo&theme=algolia&row=1&column=6"/>
-
-</p>
 
 ---
 
@@ -114,25 +84,7 @@
 
 ---
 
-# ⚡ Coding Profiles
 
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
-
----
 
 # ✨ Quote
 
