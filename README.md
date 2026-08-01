@@ -1,61 +1,158 @@
-<h1 align="center">Hi, I'm Nithish 👋</h1>
-<h3 align="center">AI/ML Engineer in the making | Full-Stack Builder | Final-Year B.E. AIML Student</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Nithish%20S&font=Orbitron&fontSize=70&fontColor=000000&animation=twinkling&color=F5F5F5&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Future%20Software%20Engineer&descSize=20&descAlignY=62&descColor=000000"/>
+
+<h1 align="center">Hi 👋, I'm Nithish S</h1>
+
+<h3 align="center">🚀 Final Year AIML Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://nithish-2fuu.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Real+World+AI+Projects+🚀;Full+Stack+Developer+💻;Always+Learning+Something+New+🔥" />
 </p>
 
 ---
 
-### 🧠 About Me
+# 💫 About Me
 
-- 🎓 B.E. Artificial Intelligence & Machine Learning student at **V.S.B. Engineering College, Karur** (Batch 2027)
-- 🔍 Focused on building **production-style AI/ML and full-stack systems** — not just tutorials
-- 💼 Web development intern at **Brainery Spot Technology**
-- 🧩 Actively solving DSA + preparing for SDE / AI-ML Engineer roles
-- 🛠️ Comfortable across the stack: model training → backend APIs → deployed UI
+🎓 Final Year B.E. Artificial Intelligence & Machine Learning Student
 
----
+💻 Passionate about Full Stack Development
 
-### 🚀 Featured Projects
+🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
 
-**[Log File Anomaly Explainer](https://github.com/nithishsivasamy07-sudo/YOUR-REPO)**
-Offline log analysis tool using local LLMs (Ollama) to detect anomalies and auto-generate incident reports. No cloud dependency — runs fully on-device.
-`Python` `Streamlit` `Ollama` `SQLite`
+🚀 Building Real World AI Projects
 
-**[LeafSense — Plant Disease Detection](https://github.com/nithishsivasamy07-sudo/YOUR-REPO)**
-Benchmarked CNN, ResNet50, InceptionV3, EfficientNet, and Vision Transformer on the PlantVillage dataset — ViT achieved ~98% accuracy.
-`TensorFlow` `Keras` `Computer Vision`
+🌱 Currently Learning Spring Boot, React, RAG & Cloud Technologies
 
-**[StudySense AI](https://github.com/nithishsivasamy07-sudo/YOUR-REPO)**
-RAG-based study assistant that retrieves and synthesizes answers from course material instead of relying on a static knowledge base.
-`RAG` `Vector Search` `Gemini API`
+💡 Love solving real-world problems using AI
 
-**[FinancePro](https://github.com/nithishsivasamy07-sudo/YOUR-REPO)**
-MERN-stack loan management system covering the full loan lifecycle — application, approval workflow, and repayment tracking.
-`MongoDB` `Express` `React` `Node.js`
+🎯 Goal: Become a Top Software Engineer at a Product-Based Company
 
 ---
 
-### 🧰 Tech Stack
+# 🌐 Connect With Me
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="left">
 
-**Web:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<a href="https://github.com/nithishsivasamy07-sudo" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
 
-**Data/Infra:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<!-- Replace with your LinkedIn -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
 
----
+<!-- Replace with your Instagram -->
+<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
 
-### 📊 GitHub Stats
+<!-- Replace with your Gmail -->
+<a href="mailto:YOURMAIL@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nithishsivasamy07-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishsivasamy07-sudo&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<p align="center"><i>Open to Software Engineer / AI-ML Engineer roles — always happy to connect.</i></p>
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,html,css,js,mysql,mongodb,git,github,vscode,eclipse,tailwind,firebase" />
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+✨ AI-Powered Supplier Discovery using Graph RAG
+
+✨ AI Recruitment Management System
+
+✨ Log File Anomaly Explainer using LLM
+
+✨ Smart Poultry Farm Management System
+
+✨ Plant Disease Detection using Deep Learning
+
+✨ AI Portfolio Website
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nithishsivasamy07-sudo&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishsivasamy07-sudo&theme=tokyonight" height="180em"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishsivasamy07-sudo&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithishsivasamy07-sudo&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithishsivasamy07-sudo&theme=tokyo-night)](https://github.com/nithishsivasamy07-sudo)
+
+---
+
+# ⚡ Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Quote
+
+> **"Dream Big. Build Bigger. Keep Learning." 🚀**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nithishsivasamy07-sudo&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thank you for visiting my profile ⭐
+
+</h3>
