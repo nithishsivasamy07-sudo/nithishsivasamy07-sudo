@@ -37,17 +37,12 @@
 </a>
 
 <!-- Replace with your LinkedIn -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<a href="(https://www.linkedin.com/in/nithish-sivasamy/)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<!-- Replace with your Instagram -->
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-
 <!-- Replace with your Gmail -->
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="nithishsivasamy07.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
