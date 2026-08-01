@@ -50,10 +50,6 @@
 
 # 📌 Featured Projects
 
-✨ AI-Powered Supplier Discovery using Graph RAG
-
-✨ AI Recruitment Management System
-
 ✨ Log File Anomaly Explainer using LLM
 
 ✨ Smart Poultry Farm Management System
